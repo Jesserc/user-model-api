@@ -2,8 +2,6 @@
 
     This is a simple user API that allows you to create, read, update, and delete users. It is not intended to be a robust API.
 
-comment: # This is a comment
-
 - FORMAT:
 
       {
